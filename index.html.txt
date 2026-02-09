@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <title>Gospel Worship</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Inter&family=Playfair+Display&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<header>
+  <h1>Gospel Worship</h1>
+  <nav>
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li>
+        <a href="canti.html">Canti</a>
+        <ul>
+          <li><a href="canti.html">Video</a></li>
+          <li><a href="canti.html">Audio</a></li>
+          <li><a href="canti.html">Accordi</a></li>
+        </ul>
+      </li>
+      <li><a href="storie.html">Storie della Bibbia</a></li>
+      <li><a href="media.html">Media</a></li>
+      <li><a href="contatti.html">Contatti</a></li>
+    </ul>
+  </nav>
+</header>
+
+<main>
+  <section>
+    <h2>Canti di lode e storie della Bibbia</h2>
+    <p>
+      Ogni lunedì condividiamo canti di worship.<br>
+      Ogni venerdì raccontiamo storie della Bibbia.
+    </p>
+  </section>
+
+  <section>
+    <h3>Ultimo video</h3>
+    <iframe width="100%" height="315"
+      src="https://www.youtube.com/embed/VIDEO_ID"
+      frameborder="0" allowfullscreen>
+    </iframe>
+  </section>
+</main>
+
+<footer>
+  © Gospel Worship
+</footer>
+
+</body>
+</html>

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <title>Canti – Gospel Worship</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>Canti</h1>
+</header>
+
+<main>
+  <p>Qui troverai video, audio e accordi dei nostri canti.</p>
+</main>
+
+<footer>© Gospel Worship</footer>
+
+</body>
+</html>
